@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GingerWebServicesPlugin", "GingerWebServicesPlugin\GingerWebServicesPlugin.csproj", "{21BD793C-2BB9-4B70-B7AC-C2EF13FF2820}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GingerWebServicesPluginTest", "GingerWebServicesPluginTest\GingerWebServicesPluginTest.csproj", "{C29F0220-686F-463A-9F96-A654372B6837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GingerWebServicesPluginWPF", "GingerWebServicesPluginWPF\GingerWebServicesPluginWPF.csproj", "{5EB5CA42-0BEF-4794-A87D-7D0FE8416448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21BD793C-2BB9-4B70-B7AC-C2EF13FF2820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BD793C-2BB9-4B70-B7AC-C2EF13FF2820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BD793C-2BB9-4B70-B7AC-C2EF13FF2820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BD793C-2BB9-4B70-B7AC-C2EF13FF2820}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29F0220-686F-463A-9F96-A654372B6837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29F0220-686F-463A-9F96-A654372B6837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29F0220-686F-463A-9F96-A654372B6837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29F0220-686F-463A-9F96-A654372B6837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB5CA42-0BEF-4794-A87D-7D0FE8416448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB5CA42-0BEF-4794-A87D-7D0FE8416448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB5CA42-0BEF-4794-A87D-7D0FE8416448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB5CA42-0BEF-4794-A87D-7D0FE8416448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B2F23C1-E8CB-4F82-9E2C-1E559E064D81}
+	EndGlobalSection
+EndGlobal
